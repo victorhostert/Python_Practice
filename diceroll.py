@@ -2,9 +2,9 @@ import random
 
 while True:     
      print(''' 1 - Roll the dice            2. Exit''')    
-     option = int(input("what you want to do\n"))     
+     option = int(input("What you want to do\n"))     
      if option==1:         
-        dice = int(input("how many sides do you want your dice to have? "))
+        dice = int(input("How many sides do you want your dice to have? "))
         number = random.randint(1,dice)         
         print(number)     
      else:         
