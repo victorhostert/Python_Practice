@@ -1,4 +1,4 @@
-cpf = input('Digite um CPF, sem a máscara')
+cpf = input('Digite um CPF, sem a máscara ')
 novo_cpf = cpf[:-2]
 reverso = 10
 total = 0
