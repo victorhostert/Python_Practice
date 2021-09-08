@@ -21,24 +21,24 @@ perguntas = {
         'resposta certa' : 'b',
     },
     'Pergunta 2': {
-        'pergunta': 'Qual destes produtos não pode ser misturado com água sanitária, correndo o risco de produzir gás cloro, tóxico para humanos?',
+        'pergunta': 'Qual destes produtos não pode ser misturado com amônia, correndo o risco de produzir gás mostarda, tóxico para humanos?',
         'respostas': {
             'a' : 'Bicarbonato de sódio',
-            'b' : 'Pasta de dente',
+            'b' : 'Soda cáustica',
             'c' : 'Vinagre',
-            'd' : 'Açúcar',
-        },
-        'resposta certa' : 'c',
-    },
-    'Pergunta 3': {
-        'pergunta': 'Qual é o nome do clã ao qual o protagonista Naruto pertence no seu anime homônimo?',
-        'respostas': {
-            'a' : 'Uchiha',
-            'b' : 'Sarutobi',
-            'c' : 'Haruno',
-            'd' : 'Uzumaki',
+            'd' : 'Alvejante',
         },
         'resposta certa' : 'd',
+    },
+    'Pergunta 3': {
+        'pergunta': 'Quais são os sobrenomes dos 3 personagens principais no anime Naruto?',
+        'respostas': {
+            'a' : 'Uzumaki, Haruno e Uchiha',
+            'b' : 'Sarutobi, Uchiha e Hyuuga',
+            'c' : 'Haruno, Sharingan e Kyuubi',
+            'd' : 'Naruto, Sakura e Sasuke',
+        },
+        'resposta certa' : 'a',
     },
 }
 
